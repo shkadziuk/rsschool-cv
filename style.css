@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  max-width: 1024px;
+  margin: auto;
+  grid-template-columns: 1fr 2fr;
+}
+
+.cvPhoto {
+  width: 100%;
+}
